@@ -1,0 +1,5 @@
+pair,metric,tre_mean_mm,tre_max_mm,seconds
+FLAIR to FLAIR,mse,0.01,0.01,2.7
+FLAIR to FLAIR,mi,0.01,0.01,3.7
+FLAIR to T1,mse,1.13,1.2,3.1
+FLAIR to T1,mi,0.37,0.47,5.3

@@ -179,3 +179,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+*.nii
+*.nii.gz
+network_weights/
+regcheck_output/
+regcheck_output_followup/

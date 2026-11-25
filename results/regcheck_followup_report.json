@@ -1,0 +1,15 @@
+{
+  "fixed": "C:/data/brats/ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData/BraTS-GLI-00767-000/BraTS-GLI-00767-000-t1n.nii.gz",
+  "moving": "C:/data/brats/ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData/BraTS-GLI-00767-001/BraTS-GLI-00767-001-t1n.nii.gz",
+  "header_issues": [],
+  "seconds": 85.2,
+  "disagreement_mean_mm": 2.546,
+  "disagreement_p95_mm": 5.192,
+  "folding_pct": 0.0,
+  "ncc_after": 0.8179,
+  "verdict": "check by eye",
+  "reasons": [
+    "after registration the images match poorly (NCC 0.818 < 0.87)"
+  ],
+  "note": "The saved result is ANTs SyN. Thresholds come from a synthetic test bench (notebook 04); treat the verdict as a screening aid, not a guarantee."
+}

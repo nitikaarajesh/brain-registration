@@ -1,0 +1,15 @@
+{
+  "fixed": "C:\\Users\\RAJESH~1\\AppData\\Local\\Temp\\tmpqb9jhx8t\\fixed.nii.gz",
+  "moving": "C:\\Users\\RAJESH~1\\AppData\\Local\\Temp\\tmpqb9jhx8t\\moving.nii.gz",
+  "header_issues": [],
+  "seconds": 118.1,
+  "disagreement_mean_mm": 2.53,
+  "disagreement_p95_mm": 5.161,
+  "folding_pct": 0.0,
+  "ncc_after": 0.8178,
+  "verdict": "check by eye",
+  "reasons": [
+    "after registration the images match poorly (NCC 0.818 < 0.87)"
+  ],
+  "note": "The saved result is ANTs SyN. Thresholds come from a synthetic test bench (notebook 04); treat the verdict as a screening aid, not a guarantee."
+}
