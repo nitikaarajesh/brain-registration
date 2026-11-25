@@ -184,3 +184,4 @@ cython_debug/
 network_weights/
 regcheck_output/
 regcheck_output_followup/
+__pycache__/
